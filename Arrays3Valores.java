@@ -16,6 +16,5 @@ public class Arrays3Valores{
 
         System.out.print(num[0]+" , "+num[1]+" , "+num[2]);//Exibe os números em ordem crescente, acessando as posições do array.
 
-        digite.close();
     }
 }
