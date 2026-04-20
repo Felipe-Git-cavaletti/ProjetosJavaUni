@@ -39,6 +39,7 @@ public class contadores{
     System.out.println("[51-75] - " + cont3);
     System.out.println("[76-100] - " + cont4);
     
+    digite.close();
   }
 }
 
